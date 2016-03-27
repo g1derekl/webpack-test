@@ -1,1 +1,1 @@
-##### A proof-of-concept of a typical client-server web application running on Node.js, React, Sass and compiled with Webpack. ES6 transpiled with Babel. Just for me to learn about Webpack and Babel compiling, as well as running tasks with npm.
+A proof-of-concept of a typical client-server web application running on Node.js, React, Sass and compiled with Webpack. ES6 transpiled with Babel. Just for me to learn about Webpack and Babel compiling, as well as running tasks with npm.
